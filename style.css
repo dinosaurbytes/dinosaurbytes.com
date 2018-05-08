@@ -1,0 +1,53 @@
+/* CSS file for Personal Portfolio Webpage  for FreeCodeCamp Project*/
+/* Using Atom */
+
+body{
+  padding: 20px;
+  font-family: Arial, Verdana, sans-serif;
+  background-color: #efefef;
+}
+
+h1{
+  background-color: #efefef;
+  padding: 10px;
+
+}
+ul{
+
+  padding: 20px;
+  margin: 0px auto 0px auto;
+  border-top: 2px solid #000;
+  border-bottom: 1px solid #000;
+  text-align: center;
+}
+li{
+
+  display: inline;
+  margin: 0px 40px;
+}
+p{
+  font-family: Arial, Verdana, sans-serif;
+  line-height: 1.4em;
+  color: #665544;
+}
+table{
+  width:600px;
+}
+th, td{
+  padding: 7px 10px 10px 10px;
+}
+th{
+  text-transform: uppercase;
+  font-size: 90%;
+  border-bottom: 2px solid #111111;
+  border-collapse: collapse;
+}
+tr{
+  background-color: #c3e6e5;
+}
+td{
+  text-align: center;
+}
+.degree{
+  color: green;
+}
